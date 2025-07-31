@@ -17,6 +17,7 @@ A conversational AI agent for academic research and scholarly questions, built w
 ---
 
 ##  Setup
+
 ### 1. Clone this Repository
 
 ```bash
@@ -39,11 +40,10 @@ SERPER_API_KEY=serper_xxxxxxx
 
 ##  Usage
 
-
 1. Start the agent web app:
 ```bash
 streamlit run app.py
-```
+
 
 2. Enter your query in the text box and click "Ask Agent".
 Example queries:
