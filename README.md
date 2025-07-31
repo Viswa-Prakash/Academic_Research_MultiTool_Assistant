@@ -48,9 +48,9 @@ streamlit run app.py
 
 2. Enter your query in the text box and click "Ask Agent".
 Example queries:
-Summarize the most cited papers in reinforcement learning from the last two years. Also, translate the main findings into Spanish.
-Find Wikipedia and Semantic Scholar info on 'transformers in language modeling', and calculate the average of reported accuracies [98, 95, 97].
-Show top Arxiv papers on graph neural networks and give a short summary with references.
+- Summarize the most cited papers in reinforcement learning from the last two years. Also, translate the main findings into Spanish.
+- Find Wikipedia and Semantic Scholar info on 'transformers in language modeling', and calculate the average of reported accuracies [98, 95, 97].
+- Show top Arxiv papers on graph neural networks and give a short summary with references.
 
 3. Get a clear, final, referenced answer only.
 ---
