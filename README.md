@@ -18,6 +18,7 @@ A conversational AI agent for academic research and scholarly questions, built w
 
 ##  Setup
 
+```bash
 ### 1. Clone this Repository
 
 ```bash
@@ -32,7 +33,7 @@ pip install -r requirements.txt
 ### 3. Configure Environment Variables
 
 Create a `.env` file and add your API keys for the following services:
-
+```bash
 OPENAI_API_KEY=sk-xxxxxxx
 SERPER_API_KEY=serper_xxxxxxx 
 
