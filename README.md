@@ -1,10 +1,10 @@
-# 🎓 Academic Research Multi-Tool ReAct Agent
+#  Academic Research Multi-Tool ReAct Agent
 
 A conversational AI agent for academic research and scholarly questions, built with [LangGraph](https://github.com/langchain-ai/langgraph) and [LangChain](https://github.com/langchain-ai/langchain). The agent analyzes a user query, reasons step-by-step, and uses multiple specialized tools to provide authoritative, referenced, and useful answers for students, researchers, and lifelong learners.
 
 ---
 
-## 🚀 Features
+##  Features
 
 - **Research Paper Search:** Fetches, summarizes, and cites cutting-edge academic papers using Arxiv and Semantic Scholar.
 - **Wikipedia & Web Lookup:** Retrieves encyclopedic and outbound info for background and literature reviews.
@@ -16,7 +16,7 @@ A conversational AI agent for academic research and scholarly questions, built w
 
 ---
 
-## 🛠️ Setup
+##  Setup
 
 ### 1. Clone this Repository
 
@@ -28,7 +28,6 @@ cd Academic_Research_MultiTool_Assistant
 
 ```bash
 pip install -r requirements.txt
-```
 
 ### 3. Configure Environment Variables
 
